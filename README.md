@@ -23,7 +23,7 @@ The following python libraries were used for this project:
 * seaborn - for visualizations
 
 # Code Execution
-The code is available via Jupyter notebooks, under /03_scripts/.
+The code is available via Jupyter notebooks, under /03_Scripts/.
 
 # Resources
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on November 8th, 2021.
