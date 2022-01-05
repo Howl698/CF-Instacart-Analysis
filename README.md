@@ -10,6 +10,7 @@ with applicable marketing campaigns to see whether they have an effect on the sa
 The objective of this analysis is to inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 
 # Data
+
 The dataset consists of information pertaining to the following parameters:
 * Orders
 * Products
@@ -17,13 +18,17 @@ The dataset consists of information pertaining to the following parameters:
 * Customers
 
 # Tools
+
 The following python libraries were used for this project:
 * pandas - for data analysis
 * matplotlib - for visualizations
 * seaborn - for visualizations
 
 # Code Execution
-The code is available via Jupyter notebooks, under /03_Scripts/.
+
+The code is available via Jupyter notebooks, under /03_Scripts/. Visualizations were generated in Jupyter notebooks and can be found in /04_Analysis/Visualizations/. A final report was generated summarizing the steps taken in the analysis and the results and recommendations from the analysis.  The report was saved in an excel workbook labeled 'A4_A_Howland_final_report' along with the results of the queries.
+The excel workbook can be found in the folder /05_Sent_to_client/.
 
 # Resources
+
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on November 8th, 2021.
