@@ -30,7 +30,9 @@ The code is available via Jupyter notebooks, under /03_Scripts/.
 
 # Analysis and Visualizations
 
-Visualizations were generated in Jupyter notebooks and can be found in /04_Analysis/Visualizations/. A final report was generated summarizing the steps taken in the analysis and the results and recommendations from the analysis.  The report was saved in an excel workbook labeled 'A4_A_Howland_final_report' along with the results of the queries.
+Visualizations were generated in Jupyter notebooks and can be found in /04_Analysis/Visualizations/. 
+
+A final report was generated summarizing the steps taken in the analysis and the results and recommendations from the analysis.  The report was saved in an excel workbook labeled 'A4_A_Howland_final_report' along with the results of the queries.
 The excel workbook can be found in the folder /05_Sent_to_client/.
 
 # Resources
