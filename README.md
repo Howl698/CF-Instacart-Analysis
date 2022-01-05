@@ -20,7 +20,7 @@ The dataset consists of information pertaining to the following parameters:
 
 # Tools
 
-The following python libraries were used for this project:
+The following Python libraries were used for this project:
 * pandas - for data analysis
 * matplotlib - for visualizations
 * seaborn - for visualizations
